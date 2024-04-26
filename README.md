@@ -7,3 +7,4 @@
 - https://github.com/kdmitruk/java_lab_2024 -innych zajecia
 - https://github.com/Jcc0b03
 - https://github.com/lukaszkurantdev
+- https://github.com/dimm9 lena
