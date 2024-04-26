@@ -3,5 +3,5 @@
 - https://github.com/kurzynam/OOP2024 zajecia
 - https://github.com/damiankawerski -damian zobaczyc
 - https://github.com/Tomki2258/Repozytorium-OOP-2024 -tomek rozwiazania
-- https://github.com/Emzeey/OOP -mateusz
-- https://github.com/kdmitruk/java_lab_2024-innych zajecia
+- https://github.com/Emzeey/Java -mateusz
+- https://github.com/kdmitruk/java_lab_2024 -innych zajecia
