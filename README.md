@@ -8,5 +8,5 @@
 - https://github.com/Jcc0b03
 - https://github.com/lukaszkurantdev
 - https://github.com/dimm9 lena
-
+- https://github.com/rniedziolkad mgr
 https://github.com/umcspro kwasniewicz
